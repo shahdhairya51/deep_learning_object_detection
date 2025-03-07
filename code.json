@@ -1,0 +1,27 @@
+{
+  "projectName": "",
+  "projectDescription": "",
+  "projectURL": "https://github.com/hoya012/deep_learning_object_detection",
+  "healthFocusAreas": [
+    "Nutrition & Wellness",
+    "Medical Research"
+  ],
+  "sdg3Targets": [
+    "3.3 End epidemics (AIDS, TB, malaria, etc.)"
+  ],
+  "technologiesUsed": [
+    "Web Application",
+    "Mobile Application",
+    "AI/ML Model",
+    "Database System",
+    "Data Visualization",
+    "Biomedical Device"
+  ],
+  "targetAudience": [
+    "General Public",
+    "Researchers",
+    "Non-profits & NGOs"
+  ],
+  "isDeployed": true,
+  "deploymentLocation": "Lab"
+}
